@@ -1,0 +1,146 @@
+/*
+Gris: 		AAB3AB;
+Rojo: 		FA0202;
+Amarillo:	ECBE13;
+Celeste:	046D8B;
+*/
+
+
+ul{
+	list-style: none;
+}
+
+
+/* ------------- Match List ------------- */
+section#matchList{
+
+}
+
+
+
+/* ------------- Match ------------- */
+article.match{
+	margin-bottom: 27px;
+}
+
+article.match ul.teamLine{
+	display: block;
+	clear: both;
+
+	height: 50px;
+	margin: 0 0 2px 0;
+}
+
+article.match ul.teamLine li{
+	display: inline-block;
+	clear: none;
+	height: 50px;
+	float: left;
+
+	padding: 0px;
+	margin: 0 2px 0 0;
+
+	background-color: #AAB3AB;
+}
+
+article.match ul.teamLine li.icon{
+	width: 50px;
+	background-color: red;
+}
+
+article.match ul.teamLine li.team,
+article.match ul.teamLine li.data{
+	width: 180px;
+	padding: 0 1.2rem;
+	background-color: #046D8B;
+	color: white;
+}
+
+article.match ul.teamLine li.team{
+	text-transform: uppercase;
+	font-size: 1.8rem;
+	padding-top: 11px;
+	height: 39px;
+}
+
+article.match ul.teamLine li.data{
+	font-size: 1.4rem;
+	padding-top: 14px;
+	height: 36px;
+
+	background-color: #ECBE13;
+	color: black;
+}
+
+article.match ul.teamLine li.input{
+	width: 50px;
+}
+
+article.match ul.teamLine li.input input{
+	width: 50px;
+	height: 50px;
+
+	font-size: 2.4rem;
+	font-weight: bold;
+	text-align: center;
+
+	border-radius: 0px;
+	border-width: 3px;
+}
+
+input.warning,
+textarea.warning,
+select.warning
+{
+	border-color: #FA0202;
+}
+
+/*
+article.match td{
+	height: 50px;
+
+	padding: 0px;
+	margin: 0px;
+
+	border-bottom: 2px solid white;
+	border-left: 2px solid white;
+}
+
+article.match td.icon,
+article.match td.input{
+	width: 50px;
+	background-color: red;
+}
+
+article.match td.input{
+	background-color: blue;
+}
+
+article.match td.team,
+article.match td.data{
+	width: 200px;
+	padding: 0 10px;
+	color: white;
+
+	background-color: #AAB3AB;
+}
+
+article.match td.team{
+	text-transform: uppercase;
+	font-size: 1.8rem;
+}
+
+article.match td.input input{
+	width: 50px;
+	height: 50px;
+	font-size: 2.4rem;
+	font-weight: bold;
+
+	background-color: yellow;
+
+	margin: 0px;
+	padding: 0px;
+	text-align: center;
+}
+*/
+

@@ -1,0 +1,12 @@
+1,Chile,Ecuador,11-06-2015-20:30,X-X-X
+2,Mexico,Bolivia,12-06-2015-20:30,X-X-X
+3,Ecuador,Bolivia,15-06-2015-18:00,X-X-X
+4,Chile,Mexico,15-06-2015-20:30,X-X-X
+5,Mexico,Ecuador,19-06-2015-18:00,X-X-X
+6,Chile,Bolivia,19-06-2015-20:30,X-X-X
+7,Uruguay,Jamaica,13-06-2015-16:00,X-X-X
+8,Argentina,Paraguay,13-06-2015-18:30,X-X-X
+9,Paraguay,Jamaica,16-06-2015-18:00,X-X-X
+10,Argentina,Uruguay,16-06-2015-20:30,X-X-X
+11,Uruguay,Paraguay,20-06-2015-16:00,X-X-X
+12,Argentina,Jamaica,20-06-2015-18:30,X-X-X
